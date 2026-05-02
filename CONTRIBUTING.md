@@ -1,0 +1,1 @@
+Contributions and feedback: Feel free to open an Issue or start a Discussion. This is a non‑commercial research project – all respectful input is welcome.
