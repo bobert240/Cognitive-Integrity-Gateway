@@ -142,4 +142,4 @@ Built for intellectual exploration, not profit.
 If you find this useful for your research, consider citing it as:
 
 CIE‑NG: Next‑Generation Cognitive Integrity Gateway (2026). GitHub repository.
-https://github.com/bobert240/CIE-NG-Next-Generation-Cognitive-Integrity-Gateway/upload/main
+git clone https://github.com/bobert240/CIE-NG-Next-Generation-Cognitive-Integrity-Gateway.git
